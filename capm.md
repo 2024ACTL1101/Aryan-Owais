@@ -1,12 +1,4 @@
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, tidy.opts = list(width.cutoff = 85))
-library(formatR)
-library(quantmod)
-library(ggplot2)
-library(tidyverse)
-options(scipen = 999, digits = 6)
-```
 
 # CAPM Analysis
 
