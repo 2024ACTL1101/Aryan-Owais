@@ -6,10 +6,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ---
 ![Quest Guide](quest.jpg)
 
-### Congrats on completing the ACTL1101!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
 
 This is written in markdown language. 
 >
@@ -24,8 +20,8 @@ This is written in markdown language.
 * [Retirement and Health](super.md)
 * [General Insurance](general.md)
 * [Banking and ERM](banking.md)
-* Coding Assignment: [Algorithmic Trading](algotrading.md) <- filled this
-* Coding Assignment: [CAPM Model](capm.md) <- filled this
+* Coding Assignment: [Algorithmic Trading](algotrading.md) 
+* Coding Assignment: [CAPM Model](capm.md) 
 
 
 
