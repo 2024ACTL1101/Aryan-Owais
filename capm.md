@@ -1,18 +1,3 @@
----
-title: "ACTL1101 Assignment Part B"
-author: "Aryan owais"
-date: "2024 T2"
-output: 
-  pdf_document:
-    extra_dependencies: ["listings"]
-  html_document:
-    df_print: paged
-header-includes:
-   - \usepackage{listings}
-   - \lstset{breaklines=true, breakatwhitespace=true, frame=single, basicstyle=\ttfamily\small, columns=flexible}
-
-    
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, tidy.opts = list(width.cutoff = 85))
